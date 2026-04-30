@@ -1,0 +1,5 @@
+body { margin: 0; background: #faf9f6; overflow: hidden; display: flex; align-items: center; justify-content: center; height: 100vh; font-family: 'Outfit', sans-serif; }
+canvas { width: 100vw; height: 100vh; cursor: pointer; }
+.ui { position: fixed; bottom: 60px; color: #4a5d23; letter-spacing: 0.4rem; font-weight: 300; text-transform: uppercase; pointer-events: none; }
+.ui b { font-weight: 900; }
+h1 { position: fixed; top: 40px; font-size: 3rem; color: #4a5d23; opacity: 0.2; letter-spacing: 1rem; }
